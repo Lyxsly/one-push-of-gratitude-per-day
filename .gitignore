@@ -39,3 +39,21 @@
 
 # debug information files
 *.dwo
+
+# .vscode/
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+!*.code-workspace
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# VS Code Local History plugin
+.history/
+# Ruff stuff:
+.ruff_cache/
