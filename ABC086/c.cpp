@@ -16,7 +16,7 @@ int main()
     for (int i = 0; i < N; i++)
     {
         cin >> t[i + 1] >> x[i + 1] >> y[i + 1];
-    }
+        }
 
     bool can = true;
     for (int i = 0; i < N; i++)
