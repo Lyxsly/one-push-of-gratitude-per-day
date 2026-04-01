@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Nibai/OneDrive/ドキュメント/one-push-of-gratitude-per-day/ABC448",
-      "program": "c:/Users/Nibai/OneDrive/ドキュメント/one-push-of-gratitude-per-day/ABC448/build/Debug/outDebug",
+      "cwd": "c:/Users/Nibai/OneDrive/ドキュメント/DevFolder/one-push-of-gratitude-per-day/ABC/ABC096",
+      "program": "c:/Users/Nibai/OneDrive/ドキュメント/DevFolder/one-push-of-gratitude-per-day/ABC/ABC096/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
